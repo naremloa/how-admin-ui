@@ -5,4 +5,5 @@
 
 <template>
   <h1 class="text-center text-3xl">PLAYGROUND</h1>
+  <how-button>bbasdfasdfbb</how-button>
 </template>
